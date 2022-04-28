@@ -14,7 +14,7 @@ I’m an Economics student turned Software Engineer.  My experience in engineeri
 * 📚  I'm in the process of expanding my skills in React and TypeScript but open to learning any tools! Constantly brainstorming my next blog-post topic
 * 🌎  I am currently focusing on Data Structures and Algorithm in Java and DevOps. A beginner contributor at Open Source. 
 * 🐠+ always exploring ways to expand my knowledge on new projects relating to product management and art(would love to collaborate on any projects that involving those topics!)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand"/>
+
 
 
 
