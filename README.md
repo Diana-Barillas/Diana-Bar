@@ -1,5 +1,6 @@
-<iframe src="https://giphy.com/embed/zOvBKUUEERdNm" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coding-zOvBKUUEERdNm">via GIPHY</a></p>
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 ---
 
 Hi there, my name is Diana ☀️
