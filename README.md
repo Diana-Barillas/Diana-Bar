@@ -1,3 +1,5 @@
+Hi there, my name is Diana ☀️
+
 I’m an Economics student turned Software Engineer.  My experience in engineering and design piqued my interest in using my problem-solving abilities in the tech sector as a front-end engineer!
 * 📍   I am a Junior, pursuing Bachelors in Economics at Cal State LA.
 * 🌲  I’m interested in Artificial Intelligence, Data Science, Web Development and Programming.
