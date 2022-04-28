@@ -1,7 +1,6 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/ign-describe-plans-13HBDT4QSTpveU" width="100"/>
+  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="100"/>
 </div>
- 
  ---
 
 ### :woman_technologist: About Me :
