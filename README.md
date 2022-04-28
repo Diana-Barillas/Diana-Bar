@@ -2,15 +2,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-Hi there, my name is Diana ☀️
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ---
 
-### :woman_technologist: About Me :
-
+Hi there, my name is Diana ☀️
 I’m an Economics student turned Software Engineer.  My experience in engineering and design piqued my interest in using my problem-solving abilities in the tech sector as a front-end engineer!
 * 📍   I am a Junior, pursuing Bachelors in Economics at Cal State LA.
 * 🌲  I’m interested in Artificial Intelligence, Data Science, Web Development and Programming.
@@ -27,7 +21,9 @@ I’m an Economics student turned Software Engineer.  My experience in engineeri
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 
+---
 
+### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
