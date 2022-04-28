@@ -1,7 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
----
+ 
+ ---
+
+### :woman_technologist: About Me :
 
 Hi there, my name is Diana ☀️
 I’m an Economics student turned Software Engineer.  My experience in engineering and design piqued my interest in using my problem-solving abilities in the tech sector as a front-end engineer!
