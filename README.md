@@ -8,3 +8,6 @@ I’m an Economics student turned Software Engineer.  My experience in engineeri
 * 🐠+ always exploring ways to expand my knowledge on new projects relating to product management and art(would love to collaborate on any projects that involving those topics!)
 
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
